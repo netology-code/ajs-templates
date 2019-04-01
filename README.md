@@ -7,7 +7,7 @@
 * [Модули](/modules)
 * [Тесты и Continuous Integration](/tests-ci)
 * [JSDoc](/jsdoc)
-* [Все остальные лекции](/jsdoc)
+* [Все остальные лекции](/all)
 * [TypeScript](/typescript)
 
 По всем вопросам обращайтесь к @coursar.
