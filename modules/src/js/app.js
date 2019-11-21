@@ -4,3 +4,6 @@ import sum from './basic';
 console.log('worked');
 
 console.log(sum([1, 2]));
+
+const map = new Map();
+console.log(`map size: ${map.size}`);
