@@ -22,8 +22,8 @@
     "@babel/preset-env": "^7.7.4",
     "babel-jest": "^24.9.0",
     "babel-loader": "^8.0.6",
-    "css-loader": "^3.2.0",
-    "eslint": "^6.7.1",
+    "css-loader": "^3.2.1",
+    "eslint": "^6.7.2",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "html-loader": "^0.5.5",
@@ -36,6 +36,6 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
-    "core-js": "^3.4.4"
+    "core-js": "^3.4.7"
   }
 }
