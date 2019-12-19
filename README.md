@@ -41,6 +41,9 @@ npm install --save-dev jest babel-jest
 
 # JSDoc
 npm install --save-dev jsdoc
+
+# TypeScript
+npm install --save-dev typescript ts-loader ts-jest @types/jest
 ```
 
 
